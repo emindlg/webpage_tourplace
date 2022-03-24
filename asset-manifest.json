@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/webpage_tourplaces/static/css/main.60a4b750.css",
-    "main.js": "/webpage_tourplaces/static/js/main.f7db0208.js",
-    "static/js/787.89ee88e2.chunk.js": "/webpage_tourplaces/static/js/787.89ee88e2.chunk.js",
-    "index.html": "/webpage_tourplaces/index.html",
-    "main.60a4b750.css.map": "/webpage_tourplaces/static/css/main.60a4b750.css.map",
-    "main.f7db0208.js.map": "/webpage_tourplaces/static/js/main.f7db0208.js.map",
-    "787.89ee88e2.chunk.js.map": "/webpage_tourplaces/static/js/787.89ee88e2.chunk.js.map"
+    "main.css": "/webpage_tourplace/static/css/main.60a4b750.css",
+    "main.js": "/webpage_tourplace/static/js/main.e9136066.js",
+    "static/js/787.89ee88e2.chunk.js": "/webpage_tourplace/static/js/787.89ee88e2.chunk.js",
+    "index.html": "/webpage_tourplace/index.html",
+    "main.60a4b750.css.map": "/webpage_tourplace/static/css/main.60a4b750.css.map",
+    "main.e9136066.js.map": "/webpage_tourplace/static/js/main.e9136066.js.map",
+    "787.89ee88e2.chunk.js.map": "/webpage_tourplace/static/js/787.89ee88e2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.60a4b750.css",
-    "static/js/main.f7db0208.js"
+    "static/js/main.e9136066.js"
   ]
 }
